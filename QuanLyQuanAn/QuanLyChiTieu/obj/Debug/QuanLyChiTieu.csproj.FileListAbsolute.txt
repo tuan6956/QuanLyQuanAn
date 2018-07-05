@@ -1,0 +1,9 @@
+E:\Code\dotNet\DoAn_PTTK\QuanLyChiTieu\QuanLyChiTieu\bin\Debug\QuanLyChiTieu.exe.config
+E:\Code\dotNet\DoAn_PTTK\QuanLyChiTieu\QuanLyChiTieu\bin\Debug\QuanLyChiTieu.exe
+E:\Code\dotNet\DoAn_PTTK\QuanLyChiTieu\QuanLyChiTieu\bin\Debug\QuanLyChiTieu.pdb
+E:\Code\dotNet\DoAn_PTTK\QuanLyChiTieu\QuanLyChiTieu\obj\Debug\QuanLyChiTieu.frmMain.resources
+E:\Code\dotNet\DoAn_PTTK\QuanLyChiTieu\QuanLyChiTieu\obj\Debug\QuanLyChiTieu.Properties.Resources.resources
+E:\Code\dotNet\DoAn_PTTK\QuanLyChiTieu\QuanLyChiTieu\obj\Debug\QuanLyChiTieu.csproj.GenerateResource.Cache
+E:\Code\dotNet\DoAn_PTTK\QuanLyChiTieu\QuanLyChiTieu\obj\Debug\QuanLyChiTieu.exe
+E:\Code\dotNet\DoAn_PTTK\QuanLyChiTieu\QuanLyChiTieu\obj\Debug\QuanLyChiTieu.pdb
+E:\Code\dotNet\DoAn_PTTK\QuanLyChiTieu\QuanLyChiTieu\obj\Debug\QuanLyChiTieu.csprojResolveAssemblyReference.cache

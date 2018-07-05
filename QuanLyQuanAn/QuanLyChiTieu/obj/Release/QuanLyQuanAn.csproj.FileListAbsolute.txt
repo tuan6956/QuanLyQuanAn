@@ -1,0 +1,12 @@
+E:\Code\dotNet\DoAn_PTTK\QuanLyQuanAn\QuanLyChiTieu\bin\Release\QuanLyQuanAn.exe.config
+E:\Code\dotNet\DoAn_PTTK\QuanLyQuanAn\QuanLyChiTieu\bin\Release\QuanLyQuanAn.exe
+E:\Code\dotNet\DoAn_PTTK\QuanLyQuanAn\QuanLyChiTieu\bin\Release\QuanLyQuanAn.pdb
+E:\Code\dotNet\DoAn_PTTK\QuanLyQuanAn\QuanLyChiTieu\obj\Release\QuanLyQuanAn.csprojResolveAssemblyReference.cache
+E:\Code\dotNet\DoAn_PTTK\QuanLyQuanAn\QuanLyChiTieu\obj\Release\QuanLyQuanAn.frmMain.resources
+E:\Code\dotNet\DoAn_PTTK\QuanLyQuanAn\QuanLyChiTieu\obj\Release\QuanLyQuanAn.Properties.Resources.resources
+E:\Code\dotNet\DoAn_PTTK\QuanLyQuanAn\QuanLyChiTieu\obj\Release\QuanLyQuanAn.csproj.GenerateResource.Cache
+E:\Code\dotNet\DoAn_PTTK\QuanLyQuanAn\QuanLyChiTieu\obj\Release\QuanLyQuanAn.exe
+E:\Code\dotNet\DoAn_PTTK\QuanLyQuanAn\QuanLyChiTieu\obj\Release\QuanLyQuanAn.pdb
+C:\Users\bossbaby\Desktop\1512636_De4\Souce\QuanLyQuanAn\QuanLyChiTieu\bin\Release\QuanLyQuanAn.exe.config
+C:\Users\bossbaby\Desktop\1512636_De4\Souce\QuanLyQuanAn\QuanLyChiTieu\obj\Release\QuanLyQuanAn.exe
+C:\Users\bossbaby\Desktop\1512636_De4\Souce\QuanLyQuanAn\QuanLyChiTieu\obj\Release\QuanLyQuanAn.pdb
